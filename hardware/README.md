@@ -36,6 +36,10 @@
 
 ![](https://m.media-amazon.com/images/I/51JeVc3X7PL._AC_SX425_.jpg)
 
+5b. [2 Sets Pan Tilt Servo Mount Bracket](https://www.amazon.com/Servo-Mount-Bracket-MG996R-Steering/dp/B07PQ12TXS)  -  $16
+
+![](https://m.media-amazon.com/images/I/51AxPFffRoL._AC_SX679_.jpg)
+
 6. [TracFone BLU View 2 (2022) 4G LTE, 32GB, Sim Card Included, Black](https://www.amazon.com/TracFone-View-Prepaid-Smartphone-Locked/dp/B09XFJY4N4)  -  $31
 
 ![](https://m.media-amazon.com/images/I/61qTWOAsIPL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
@@ -74,9 +78,11 @@ Total: $140
 
 5. [Robot Hand Five Fingers Solely Movement Bionic Robot Mechanical Arm](https://www.amazon.com/Fingers-Movement-Bionic-Mechanical-DIY%EF%BC%88Left/dp/B081RRCTFX)  -  $100
 
+5b. [2 Sets Pan Tilt Servo Mount Bracket](https://www.amazon.com/Servo-Mount-Bracket-MG996R-Steering/dp/B07PQ12TXS)  -  $16
+
 ---
 
-Total: $240
+Total: $256
 
 ### King hexapod robot
 
