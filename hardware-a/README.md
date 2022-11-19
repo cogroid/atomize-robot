@@ -14,11 +14,11 @@
 
 ![](https://cdn.shopify.com/s/files/1/0195/1344/2404/products/3F0EA611-5FB2-4609-9976-BD11A60675BD_540x.png?v=1663183161)
 
-2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
+2. [DIYmalls BN-220 GPS Module](https://www.amazon.com/DIYmalls-Glonass-Passive-Raspberry-Betaflight/dp/B086ZK9BT4)  -  $23
 
-![](https://m.media-amazon.com/images/I/71aniFLhrML._AC_SX569_.jpg)
+![](https://m.media-amazon.com/images/I/61Vtq8h4YNL._AC_SX425_.jpg)
 
-* [How to Interface GPS Module (NEO-6m) with Arduino](https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-gps-module-neo-6m-with-arduino-8f90ad)
+* [Build Raspberry Pi GPS location/navigation device](https://tutorials-raspberrypi.com/build-raspberry-pi-gps-location-navigation-device/)
 
 3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
 
