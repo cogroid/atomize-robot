@@ -4,5 +4,7 @@
 
 * [Hardware](hardware/README.md)
 
+* [Advanced Hardware](hardware-a/README.md)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
