@@ -8,6 +8,7 @@
 
 * [Tutorial for Arduino Hexapod Robot](https://www.youtube.com/watch?v=nivTZeGthf4)
 * [Github / Freenove / Freenove_Hexapod_Robot_Kit](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit)
+* Can carry 1.5kg
 
 2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
 
