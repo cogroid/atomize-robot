@@ -27,6 +27,10 @@
 
 * [Arduino Wireless Network with Multiple NRF24L01 Modules](https://howtomechatronics.com/tutorials/arduino/how-to-build-an-arduino-wireless-network-with-multiple-nrf24l01-modules/)
 
+4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $12
+
+![](https://cdn.shopify.com/s/files/1/0481/9678/0183/products/Sony-VTC4-3_1024x1024.jpg?v=1633167500)
+
 5. [Robot Hand Five Fingers Solely Movement Bionic Robot Mechanical Arm](https://www.amazon.com/Fingers-Movement-Bionic-Mechanical-DIY%EF%BC%88Left/dp/B081RRCTFX)  -  $100
 
 ![](https://m.media-amazon.com/images/I/51JeVc3X7PL._AC_SX425_.jpg)
@@ -49,9 +53,11 @@
 
 4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
 
+4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $12
+
 ---
 
-Total: $128
+Total: $140
 
 ### Worker hexapod robot
 
@@ -63,11 +69,13 @@ Total: $128
 
 4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
 
+4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $12
+
 5. [Robot Hand Five Fingers Solely Movement Bionic Robot Mechanical Arm](https://www.amazon.com/Fingers-Movement-Bionic-Mechanical-DIY%EF%BC%88Left/dp/B081RRCTFX)  -  $100
 
 ---
 
-Total: $228
+Total: $240
 
 ### King hexapod robot
 
@@ -79,13 +87,15 @@ Total: $228
 
 4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
 
+4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $12
+
 6. [TracFone BLU View 2 (2022) 4G LTE, 32GB, Sim Card Included, Black](https://www.amazon.com/TracFone-View-Prepaid-Smartphone-Locked/dp/B09XFJY4N4)  -  $31
 
 7. [Loncaster Car Phone Holder](https://www.amazon.com/Loncaster-Silicone-Dashboards-Compatible-Smartphones/dp/B07TZSC1P3)  -  $12
 
 ---
 
-Total: $171
+Total: $183
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
