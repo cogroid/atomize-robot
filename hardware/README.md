@@ -23,6 +23,8 @@
 
 4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
 
+![](https://m.media-amazon.com/images/I/51GnwOxsCnL._AC_SX569_.jpg)
+
 * [Arduino Wireless Network with Multiple NRF24L01 Modules](https://howtomechatronics.com/tutorials/arduino/how-to-build-an-arduino-wireless-network-with-multiple-nrf24l01-modules/)
 
 5. [ROT3U 6DOF Black Aluminium Robot Arm](https://www.amazon.com/Aluminium-Mechanical-Robotic-Anti-Blocking-Unassembled/dp/B0B2WP36RM)  -  $100
