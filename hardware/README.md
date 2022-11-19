@@ -4,6 +4,8 @@
 
 1. [Freenove Hexapod Robot Kit](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLXFDZ1)  -  $110
 
+![](https://m.media-amazon.com/images/I/71BKFGynf1L._AC_SX569_.jpg)
+
 * [Tutorial for Arduino Hexapod Robot](https://www.youtube.com/watch?v=nivTZeGthf4)
 * [Github / Freenove / Freenove_Hexapod_Robot_Kit](https://github.com/Freenove/Freenove_Hexapod_Robot_Kit)
 
