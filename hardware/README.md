@@ -29,6 +29,8 @@
 
 5. [ROT3U 6DOF Black Aluminium Robot Arm](https://www.amazon.com/Aluminium-Mechanical-Robotic-Anti-Blocking-Unassembled/dp/B0B2WP36RM)  -  $100
 
+![](https://m.media-amazon.com/images/I/51FhOF3XaBL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
+
 6. [TracFone BLU View 2 (2022) 4G LTE, 32GB, Sim Card Included, Black](https://www.amazon.com/TracFone-View-Prepaid-Smartphone-Locked/dp/B09XFJY4N4)  -  $31
 
 ### Basic hexapod robot
