@@ -56,11 +56,11 @@
 
 1b. [Raspberry Pi 4 Model B - 2GB RAM](https://vilros.com/products/raspberry-pi-4-2gb-ram?src=raspberrypi)  - $46
 
-2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
+2. [DIYmalls BN-220 GPS Module](https://www.amazon.com/DIYmalls-Glonass-Passive-Raspberry-Betaflight/dp/B086ZK9BT4)  -  $23
 
-3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
+3. [CUQI Ultrasonic Module Distance Measuring Sensor](https://www.amazon.com/CUQI-Ultrasonic-Measuring-Transmitter-Compatible/dp/B092D2DS1Y)  -  $2
 
-4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
+4. [WiFi USB Adapter for PC & Raspberry PI WiFi Dongle](https://www.amazon.com/WiFi-USB-Adapter-Raspberry-Dongle/dp/B09XFX83JV)  -  $14
 
 4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $24
 
@@ -74,11 +74,11 @@ Total: $279
 
 1b. [Raspberry Pi 4 Model B - 2GB RAM](https://vilros.com/products/raspberry-pi-4-2gb-ram?src=raspberrypi)  - $46
 
-2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
+2. [DIYmalls BN-220 GPS Module](https://www.amazon.com/DIYmalls-Glonass-Passive-Raspberry-Betaflight/dp/B086ZK9BT4)  -  $23
 
-3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
+3. [CUQI Ultrasonic Module Distance Measuring Sensor](https://www.amazon.com/CUQI-Ultrasonic-Measuring-Transmitter-Compatible/dp/B092D2DS1Y)  -  $2
 
-4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
+4. [WiFi USB Adapter for PC & Raspberry PI WiFi Dongle](https://www.amazon.com/WiFi-USB-Adapter-Raspberry-Dongle/dp/B09XFX83JV)  -  $14
 
 4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $24
 
@@ -94,11 +94,11 @@ Total: $371
 
 1b. [Raspberry Pi 4 Model B - 2GB RAM](https://vilros.com/products/raspberry-pi-4-2gb-ram?src=raspberrypi)  - $46
 
-2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
+2. [DIYmalls BN-220 GPS Module](https://www.amazon.com/DIYmalls-Glonass-Passive-Raspberry-Betaflight/dp/B086ZK9BT4)  -  $23
 
-3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
+3. [CUQI Ultrasonic Module Distance Measuring Sensor](https://www.amazon.com/CUQI-Ultrasonic-Measuring-Transmitter-Compatible/dp/B092D2DS1Y)  -  $2
 
-4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
+4. [WiFi USB Adapter for PC & Raspberry PI WiFi Dongle](https://www.amazon.com/WiFi-USB-Adapter-Raspberry-Dongle/dp/B09XFX83JV)  -  $14
 
 4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $24
 
