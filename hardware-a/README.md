@@ -26,11 +26,13 @@
 
 * [Using a Raspberry Pi distance sensor](https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
 
-4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
+4. [WiFi USB Adapter for PC & Raspberry PI WiFi Dongle](https://www.amazon.com/WiFi-USB-Adapter-Raspberry-Dongle/dp/B09XFX83JV)  -  $14
 
-![](https://m.media-amazon.com/images/I/51GnwOxsCnL._AC_SX569_.jpg)
+![](https://m.media-amazon.com/images/I/51oBadFrfqL._AC_SX569_.jpg)
 
-* [Arduino Wireless Network with Multiple NRF24L01 Modules](https://howtomechatronics.com/tutorials/arduino/how-to-build-an-arduino-wireless-network-with-multiple-nrf24l01-modules/)
+* [https://www.seeedstudio.com/blog/2021/01/25/three-methods-to-configure-raspberry-pi-wifi/](https://www.seeedstudio.com/blog/2021/01/25/three-methods-to-configure-raspberry-pi-wifi/)
+
+* [Automatically connect a Raspberry Pi to a Wifi network](https://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
 
 4b. [Sony | Murata VTC4 18650 2100mAh 30A Battery](https://www.18650batterystore.com/collections/18650-batteries/products/sony-vtc4)  -  $24
 
@@ -64,7 +66,7 @@
 
 ---
 
-Total: $258
+Total: $279
 
 ### Worker hexapod robot
 
@@ -84,7 +86,7 @@ Total: $258
 
 ---
 
-Total: $358
+Total: $371
 
 ### King hexapod robot
 
@@ -106,7 +108,7 @@ Total: $358
 
 ---
 
-Total: $311
+Total: $332
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
