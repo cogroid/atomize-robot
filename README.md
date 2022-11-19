@@ -2,15 +2,7 @@
 
 # Atomize Robot - Thinking and conversational colony of hexapod robots
 
-```
-
-
-
-
-
-
-
-```
+* [Hardware](hardward/README.md)
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
