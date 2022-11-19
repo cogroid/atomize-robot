@@ -27,9 +27,9 @@
 
 * [Arduino Wireless Network with Multiple NRF24L01 Modules](https://howtomechatronics.com/tutorials/arduino/how-to-build-an-arduino-wireless-network-with-multiple-nrf24l01-modules/)
 
-5. [ROT3U 6DOF Black Aluminium Robot Arm](https://www.amazon.com/Aluminium-Mechanical-Robotic-Anti-Blocking-Unassembled/dp/B0B2WP36RM)  -  $100
+5. [Robot Hand Five Fingers Solely Movement Bionic Robot Mechanical Arm](https://www.amazon.com/Fingers-Movement-Bionic-Mechanical-DIY%EF%BC%88Left/dp/B081RRCTFX)  -  $100
 
-![](https://m.media-amazon.com/images/I/51FhOF3XaBL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
+![](https://m.media-amazon.com/images/I/51JeVc3X7PL._AC_SX425_.jpg)
 
 6. [TracFone BLU View 2 (2022) 4G LTE, 32GB, Sim Card Included, Black](https://www.amazon.com/TracFone-View-Prepaid-Smartphone-Locked/dp/B09XFJY4N4)  -  $31
 
@@ -63,7 +63,7 @@ Total: $128
 
 4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
 
-5. [ROT3U 6DOF Black Aluminium Robot Arm](https://www.amazon.com/Aluminium-Mechanical-Robotic-Anti-Blocking-Unassembled/dp/B0B2WP36RM)  -  $100
+5. [Robot Hand Five Fingers Solely Movement Bionic Robot Mechanical Arm](https://www.amazon.com/Fingers-Movement-Bionic-Mechanical-DIY%EF%BC%88Left/dp/B081RRCTFX)  -  $100
 
 ---
 
