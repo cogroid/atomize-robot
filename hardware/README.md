@@ -17,6 +17,8 @@
 
 3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
 
+![](https://m.media-amazon.com/images/I/71sZ652ArLL._AC_SX569_.jpg)
+
 * [Ultrasonic Radar Can Detect Multiple Objects at Each Ping](https://create.arduino.cc/projecthub/mircemk/ultrasonic-radar-can-detect-multiple-objects-at-each-ping-7a0f26)
 
 4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
