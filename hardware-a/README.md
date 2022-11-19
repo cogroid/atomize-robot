@@ -10,6 +10,10 @@
 * [Github / Freenove / Freenove_Big_Hexapod_Robot_Kit_for_Raspberry_Pi](https://github.com/Freenove/Freenove_Big_Hexapod_Robot_Kit_for_Raspberry_Pi)
 * Can carry 1.5kg
 
+1b. [Raspberry Pi 4 Model B - 2GB RAM](https://vilros.com/products/raspberry-pi-4-2gb-ram?src=raspberrypi)  - $46
+
+![](https://cdn.shopify.com/s/files/1/0195/1344/2404/products/3F0EA611-5FB2-4609-9976-BD11A60675BD_540x.png?v=1663183161)
+
 2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
 
 ![](https://m.media-amazon.com/images/I/71aniFLhrML._AC_SX569_.jpg)
@@ -48,6 +52,8 @@
 
 1. [Freenove Big Hexapod Robot Kit](https://www.amazon.com/gp/product/B08M5DXS2P)  -  $170
 
+1b. [Raspberry Pi 4 Model B - 2GB RAM](https://vilros.com/products/raspberry-pi-4-2gb-ram?src=raspberrypi)  - $46
+
 2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
 
 3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
@@ -58,11 +64,13 @@
 
 ---
 
-Total: $200
+Total: $246
 
 ### Worker hexapod robot
 
 1. [Freenove Big Hexapod Robot Kit](https://www.amazon.com/gp/product/B08M5DXS2P)  -  $170
+
+1b. [Raspberry Pi 4 Model B - 2GB RAM](https://vilros.com/products/raspberry-pi-4-2gb-ram?src=raspberrypi)  - $46
 
 2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
 
@@ -76,11 +84,13 @@ Total: $200
 
 ---
 
-Total: $300
+Total: $346
 
 ### King hexapod robot
 
 1. [Freenove Big Hexapod Robot Kit](https://www.amazon.com/gp/product/B08M5DXS2P)  -  $170
+
+1b. [Raspberry Pi 4 Model B - 2GB RAM](https://vilros.com/products/raspberry-pi-4-2gb-ram?src=raspberrypi)  - $46
 
 2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
 
@@ -96,7 +106,7 @@ Total: $300
 
 ---
 
-Total: $243
+Total: $289
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
