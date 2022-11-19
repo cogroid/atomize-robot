@@ -20,11 +20,11 @@
 
 * [Build Raspberry Pi GPS location/navigation device](https://tutorials-raspberrypi.com/build-raspberry-pi-gps-location-navigation-device/)
 
-3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
+3. [CUQI Ultrasonic Module Distance Measuring Sensor](https://www.amazon.com/CUQI-Ultrasonic-Measuring-Transmitter-Compatible/dp/B092D2DS1Y)  -  $2
 
-![](https://m.media-amazon.com/images/I/71sZ652ArLL._AC_SX569_.jpg)
+![](https://m.media-amazon.com/images/I/61Rwt2iuPDS._AC_SX425_.jpg)
 
-* [Ultrasonic Radar Can Detect Multiple Objects at Each Ping](https://create.arduino.cc/projecthub/mircemk/ultrasonic-radar-can-detect-multiple-objects-at-each-ping-7a0f26)
+* [Using a Raspberry Pi distance sensor](https://tutorials-raspberrypi.com/raspberry-pi-ultrasonic-sensor-hc-sr04/)
 
 4. [NRF24L01+ Wireless Transceiver Module](https://www.amazon.com/HiLetgo-NRF24L01-Wireless-Transceiver-Module/dp/B00LX47OCY)  -  $2
 
