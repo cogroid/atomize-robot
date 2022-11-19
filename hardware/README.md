@@ -11,6 +11,8 @@
 
 2. [GPS Module GPS NEO-6M](https://www.amazon.com/Microcontroller-Compatible-Sensitivity-Navigation-Positioning/dp/B07P8YMVNT)  -  $13
 
+![](https://m.media-amazon.com/images/I/71aniFLhrML._AC_SX569_.jpg)
+
 * [How to Interface GPS Module (NEO-6m) with Arduino](https://create.arduino.cc/projecthub/ruchir1674/how-to-interface-gps-module-neo-6m-with-arduino-8f90ad)
 
 3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
