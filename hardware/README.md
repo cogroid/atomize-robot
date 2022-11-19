@@ -33,6 +33,8 @@
 
 6. [TracFone BLU View 2 (2022) 4G LTE, 32GB, Sim Card Included, Black](https://www.amazon.com/TracFone-View-Prepaid-Smartphone-Locked/dp/B09XFJY4N4)  -  $31
 
+![](https://m.media-amazon.com/images/I/61qTWOAsIPL.__AC_SX300_SY300_QL70_FMwebp_.jpg)
+
 ### Basic hexapod robot
 
 1. [Freenove Hexapod Robot Kit](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLXFDZ1)  -  $110
