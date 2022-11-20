@@ -52,6 +52,10 @@
 
 ![](https://m.media-amazon.com/images/I/71vj+-1xXPL._AC_SX569_.jpg)
 
+9. [9V 2A Power Supply Adapter](https://www.amazon.com/Adapter-100-240V-18Watts-Regulated-Switching/dp/B0B3T4L863)  -  $10
+
+![](https://m.media-amazon.com/images/I/51kLaZOLmbL._AC_SX569_.jpg)
+
 ### Basic hexapod robot
 
 1. [Freenove Hexapod Robot Kit](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLXFDZ1)  -  $110
@@ -120,9 +124,11 @@ Total: $183
 
 5b. [2 Sets Pan Tilt Servo Mount Bracket](https://www.amazon.com/Servo-Mount-Bracket-MG996R-Steering/dp/B07PQ12TXS)  -  $32
 
+9. [9V 2A Power Supply Adapter](https://www.amazon.com/Adapter-100-240V-18Watts-Regulated-Switching/dp/B0B3T4L863)  -  $10
+
 ---
 
-Total: $254
+Total: $264
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
