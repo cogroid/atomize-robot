@@ -48,6 +48,10 @@
 
 ![](https://m.media-amazon.com/images/I/71Maoz7dJDL._AC_SX679_.jpg)
 
+8. [Freenove Control Board V4](https://www.amazon.com/Freenove-Compatible-Connector-Detailed-Tutorial/dp/B0BM5VC75L)  -  $17
+
+![](https://m.media-amazon.com/images/I/71vj+-1xXPL._AC_SX569_.jpg)
+
 ### Basic hexapod robot
 
 1. [Freenove Hexapod Robot Kit](https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLXFDZ1)  -  $110
@@ -103,6 +107,14 @@ Total: $256
 ---
 
 Total: $183
+
+### Worker kiosk
+
+8. [Freenove Control Board V4](https://www.amazon.com/Freenove-Compatible-Connector-Detailed-Tutorial/dp/B0BM5VC75L)  -  $17
+
+---
+
+Total: $17
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
