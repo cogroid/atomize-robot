@@ -112,9 +112,15 @@ Total: $183
 
 8. [Freenove Control Board V4](https://www.amazon.com/Freenove-Compatible-Connector-Detailed-Tutorial/dp/B0BM5VC75L)  -  $17
 
+3. [Ultrasonic Module HC-SR04 Distance Sensor](https://www.amazon.com/Excelity-Ultrasonic-HC-SR04-Distance-Mounting/dp/B07SC1YJ21)  -  $3
+
+5. [Robot Hand Five Fingers Solely Movement Bionic Robot Mechanical Arm](https://www.amazon.com/Fingers-Movement-Bionic-Mechanical-DIY%EF%BC%88Left/dp/B081RRCTFX)  -  $200
+
+5b. [2 Sets Pan Tilt Servo Mount Bracket](https://www.amazon.com/Servo-Mount-Bracket-MG996R-Steering/dp/B07PQ12TXS)  -  $32
+
 ---
 
-Total: $17
+Total: $252
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
