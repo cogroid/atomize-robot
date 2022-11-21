@@ -54,5 +54,9 @@
 
 ![](https://m.media-amazon.com/images/I/51Pb4JlKitL._AC_SX569_.jpg)
 
+13. [AA Battery holder](https://www.amazon.com/WAYLLSHINE%C2%AE-Dozen-Battery-Holder-Black/dp/B013GNC08C)  - $9 / 12 pc
+
+![](https://m.media-amazon.com/images/I/71oR4I-g0WL._AC_SX679_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
