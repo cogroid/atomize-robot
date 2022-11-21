@@ -10,5 +10,9 @@
 
 ![](https://m.media-amazon.com/images/I/814u53Hai7L._AC_SX679_.jpg)
 
+3. [Jumper wires](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY)  - $7 / 120 pc
+
+![](https://m.media-amazon.com/images/I/71s8ePxdYaL._SX466_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
