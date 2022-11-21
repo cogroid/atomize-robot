@@ -30,5 +30,9 @@
 
 ![](https://m.media-amazon.com/images/I/61K7OiD0vbL._AC_SX425_.jpg)
 
+8. [Rotary potentiometer](https://www.amazon.com/Uxcell-a15011600ux0235-Linear-Rotary-Potentiometer/dp/B01DKCUVMQ)  -  $7.5 / 5 pc
+
+![](https://m.media-amazon.com/images/I/61TqwUfTu7L._SX466_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
