@@ -18,5 +18,9 @@
 
 ![](https://m.media-amazon.com/images/I/71wIHE4q1WL._AC_SX569_.jpg)
 
+5. [Resistor](https://www.amazon.com/BOJACK-Values-Resistor-Resistors-Assortment/dp/B08FD1XVL6)  - $11 / 1000 pc
+
+![](https://m.media-amazon.com/images/I/71uBje2koeS._SX466_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
