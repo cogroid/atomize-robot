@@ -22,5 +22,10 @@
 
 ![](https://m.media-amazon.com/images/I/71uBje2koeS._SX466_.jpg)
 
+6. [Push Button Switch](https://www.amazon.com/BOJACK-Pushbutton-Switches-Momentary-Assortment/dp/B07ZBHXBZ4)  -  $10 / 200 pc
+
+![](https://m.media-amazon.com/images/I/61xiKuNsJjL._SX466_.jpg)
+
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
