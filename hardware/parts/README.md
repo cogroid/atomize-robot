@@ -22,9 +22,9 @@
 
 ![](https://m.media-amazon.com/images/I/71uBje2koeS._SX466_.jpg)
 
-6. [Push Button Switch](https://www.amazon.com/BOJACK-Pushbutton-Switches-Momentary-Assortment/dp/B07ZBHXBZ4)  -  $10 / 200 pc
+6. [Push Button Switch](https://www.amazon.com/dp/B09R47N37H)  -  $7 / 150 pc
 
-![](https://m.media-amazon.com/images/I/61xiKuNsJjL._SX466_.jpg)
+![](https://m.media-amazon.com/images/I/71C4mYJ8dJL._SX466_.jpg)
 
 
 ---
