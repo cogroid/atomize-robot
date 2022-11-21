@@ -42,5 +42,9 @@
 
 ![](https://m.media-amazon.com/images/I/61O2ast0enL._AC_SX569_.jpg)
 
+11. [Transistor](https://www.amazon.com/dp/B095NMT2SL)  -  $11 / 300 pc
+
+![](https://m.media-amazon.com/images/I/91WNDNgD55S._SX466_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
