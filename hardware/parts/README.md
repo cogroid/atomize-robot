@@ -34,5 +34,9 @@
 
 ![](https://m.media-amazon.com/images/I/61TqwUfTu7L._SX466_.jpg)
 
+9. [Photoresistor](https://www.amazon.com/HiLetgo-Dependent-Photoresistor-Photoconductive-Resistance/dp/B00N1ZJUN4)  -  $7.5 / 100 pc
+
+![](https://m.media-amazon.com/images/I/51L5lnCt9ML._AC_SX569_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
