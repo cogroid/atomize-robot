@@ -38,5 +38,9 @@
 
 ![](https://m.media-amazon.com/images/I/51L5lnCt9ML._AC_SX569_.jpg)
 
+10. [RGB LED](https://www.amazon.com/Tricolor-Multicolor-Lighting-Electronics-Components/dp/B01C19ENFK)  -  $9 / 100 pc
+
+![](https://m.media-amazon.com/images/I/61O2ast0enL._AC_SX569_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
