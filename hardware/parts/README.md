@@ -26,6 +26,9 @@
 
 ![](https://m.media-amazon.com/images/I/71C4mYJ8dJL._SX466_.jpg)
 
+7. [LED bar graph](https://www.amazon.com/Magic-shell-Segment-Display-Battery/dp/B07TMBGSXC)  -  $6 / 2 pc
+
+![](https://m.media-amazon.com/images/I/61K7OiD0vbL._AC_SX425_.jpg)
 
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
