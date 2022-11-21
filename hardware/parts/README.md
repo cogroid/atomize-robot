@@ -46,5 +46,13 @@
 
 ![](https://m.media-amazon.com/images/I/91WNDNgD55S._SX466_.jpg)
 
+12a. [Passive buzzer](https://www.amazon.com/Gikfun-Terminals-Passive-Electronic-Arduino/dp/B01GJLE5BS)  -  $7.5 / 10 pc
+
+![](https://m.media-amazon.com/images/I/61trXPjIShL._AC_SX569_.jpg)
+
+12b. [Active buzzer](https://www.amazon.com/Cylewet-Electronic-Magnetic-Continuous-Arduino/dp/B01N7NHSY6)  - $7 / 10 pc
+
+![](https://m.media-amazon.com/images/I/51Pb4JlKitL._AC_SX569_.jpg)
+
 ---
 [Head icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/head)
